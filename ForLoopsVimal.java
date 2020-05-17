@@ -11,6 +11,9 @@ class ForLoopsVimal
 	{
 		System.out.println(name);
 	}
+		System.out.println("Done with for Loops");
+
+		System.out.println("Waiting for while Loops");
 	
 	}
 }
